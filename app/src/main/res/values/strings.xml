@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashScreenImplementation</string>
+    <string name="welcome1">WELCOME</string>
+    <string name="next_page_started1">NEXT PAGE STARTED</string>
+</resources>
